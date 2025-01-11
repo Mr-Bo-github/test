@@ -1,11 +1,11 @@
 {
     "awa": "xiaotianzuishuai",
-    "start_notice_url": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/sendchat_notice.txt",
+    "start_notice_url": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/notice.txt",
     "start_notice_brief": "星宇社",
     "update_ver": "0.1",
     "update_notice": "Hello Mini World！",
     "update_url": "https://gitee.com/Mr-Bo-gitee/test/archive/refs/tags/test.zip",
-    "forced_notice": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/force.txt",
+    "forced_notice": "#R你好！",
     "forced_url": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/force.txt",
-    "sendchat_notice_url": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/notice.txt"
+    "sendchat_notice_url": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/sendchat_notice.txt"
 }
