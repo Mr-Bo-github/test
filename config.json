@@ -2,7 +2,7 @@
     "get_notice_success": "get_notice",
     "start_notice_url": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/notice.txt",
     "start_notice_brief": "【星宇社】出品",
-    "update_ver": "1.1",
+    "update_ver": "1.0",
     "update_notice": "Hello Mini World！",
     "update_url": "https://gitee.com/Mr-Bo-gitee/test/archive/refs/tags/test.zip",
     "forced_notice": "#R你好！#n",
