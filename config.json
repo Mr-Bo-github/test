@@ -1,11 +1,11 @@
 {
-    "get_notice_success": "get_notice",【验证公告】
-    "start_notice_url": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/notice.txt",【主公告】
-    "start_notice_brief": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/notice_brief.txt",【滚动公告】
-    "update_ver": "1.0",【版本号{若游戏版本号小于这个的版本号会弹窗更新，但不强制(尊重用户意愿)}】
-    "update_notice": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/update_notice.txt",【更新弹窗内容】
-    "update_url": "https://gitee.com/Mr-Bo-gitee/test/archive/refs/tags/test.zip",【更新的安装包，这里使用的是测试链接，若要更新需要更改（改成网页也可以，但是不是下载而是浏览器打开）】
-    "forced_notice": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/forced_notice.txt",【游戏加载弹窗（开始页面）】
-    "forced_url": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/force.txt",【进入游戏时强制弹出网页】
-    "sendchat_notice_url": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/sendchat_notice.txt"【游戏中迷你队长提示】
+    "get_notice_success": "get_notice", // 【验证公告】
+    "start_notice_url": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/notice.txt", // 【主公告】
+    "start_notice_brief": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/notice_brief.txt", // 【滚动公告】
+    "update_ver": "1.0", // 【版本号{若游戏版本号小于这个的版本号会弹窗更新，但不强制(尊重用户意愿)}】
+    "update_notice": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/update_notice.txt", // 【更新弹窗内容】
+    "update_url": "https://gitee.com/Mr-Bo-gitee/test/archive/refs/tags/test.zip", // 【更新的安装包，这里使用的是测试链接，若要更新需要更改（改成网页也可以，但是不是下载而是浏览器打开）】
+    "forced_notice": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/forced_notice.txt", // 【游戏加载弹窗（开始页面）】
+    "forced_url": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/force.txt", // 【进入游戏时强制弹出网页】
+    "sendchat_notice_url": "https://raw.githubusercontent.com/Mr-Bo-github/test/refs/heads/main/sendchat_notice.txt" // 【游戏中迷你队长提示】
 }
